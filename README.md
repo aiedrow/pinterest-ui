@@ -7,4 +7,5 @@ cutting to year 2024, I've recently left my job for taking time and healing myse
 <br><br><img src='pinss.png'>
 <i>Here's the screenshot, showing how it looks when deployed</i>
 
-
+<img src='ogpin.png'>
+<i>At the time of upload, this is how Pinterest WebApp looks</i>
